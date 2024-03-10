@@ -4,7 +4,7 @@ I'm passionate about software engineering and enjoy coding and developing my ski
 
 ## About Me
 
-I am dedicated to contribute my emerging expertise and skills in Python to engange in open-source projects as well as produce my own portfolio of projects.
+I am dedicated to contribute my emerging expertise and skills in Python to engage in open-source projects as well as produce my own portfolio of projects.
 My journey in coding has equipped me with valuable skills with a focus on Object-Oriented Programming (OOP) as well as creativity and problem-solving to
 all tasks. I am always eager to learn and adapt to new challenges.
 
